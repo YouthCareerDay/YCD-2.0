@@ -182,10 +182,11 @@ nav ul li a:hover::after{
     font-size: 100px;
     line-height: 160px;
     margin-left: -10px;
-    color: transparent;
-    -webkit-text-stroke: 1px #000000;
+    color: white;
+    -webkit-text-stroke: 1px #ffffff;
     background: url(4.png);
-    -webkit-background-clip: text;
+
+    
     background-position: 0 0;
     animation: back 20s linear infinite;
 }
